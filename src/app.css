@@ -10,6 +10,8 @@
 .Calendar-container {
   display: flex;
   flex-direction: column;
+  width: 40%;
+  height: 55%;
   align-items: center;
   background-color: white; /* Fondo del contenedor */
   padding: 20px;
